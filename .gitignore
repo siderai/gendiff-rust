@@ -1,0 +1,28 @@
+# Compiled Files
+**/target/
+
+# Package files
+*.crate
+*.crate.lock
+
+# Generated files
+Cargo.lock
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Compiled dynamic libraries
+**/target/debug/deps/
+**/target/release/deps/
+
+# Rust Language Server
+.rustc_info.json
+
+# Mac OS X files
+.DS_Store
+
+# Rust toolchain
+rust-toolchain
